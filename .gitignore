@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+.chalice/deployed/
+.chalice/__pycache__/
