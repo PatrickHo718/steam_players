@@ -23,5 +23,4 @@ API Gateway
 ```
 
 ## Example Plot
-
-
+![RDR2 Steam Concurrent Players](example-image.png)
